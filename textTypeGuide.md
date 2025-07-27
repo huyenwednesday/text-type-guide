@@ -1,9 +1,3 @@
-# text-type-guide
-
-A guide for text types and UI formatting rules
-
-## Text Type Guide
-
 ## Text Type Guide
 
 | Text Type   | Vietnamese (vi)                         | English (en)                         | Note                             |
